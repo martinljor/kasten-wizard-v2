@@ -5,7 +5,6 @@ STEP_ID=4
 STEP_NAME="TOOLS INSTALLATION"
 
 # Asume:
-# new changes.
 # - run_bg definido en install.sh
 # - TOTAL_STEPS definido
 # - draw_step disponible (ui.sh sourceado)
