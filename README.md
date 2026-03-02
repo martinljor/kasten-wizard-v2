@@ -1,4 +1,5 @@
 # kasten-wizard-v2
+Projecto continues on: https://github.com/martinljor/kasten-wizard-v3
 Auto deploy Kasten in ubuntu VM.
 
 If running on VM config virtualization capabilities: Expose hardware assisted virtualization to the guest OS
